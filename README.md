@@ -27,7 +27,7 @@ But of course you're free to use an other API of your choice!
 
 ## Level 2 - Retreive data
 
-Try to change the API call in the file `src/AppBundle/Controller/DefaultController.php` (the controller) and display it (without CSS just as plain text) in the `app/Resources/view/default/index.html.twig` (the template view).
+Try to change the API call in the file `src/AppBundle/Controller/DefaultController.php` (the controller) and display it (without CSS just as plain text) in the `app/Resources/views/default/index.html.twig` (the template view).
 
 ## Level 3 - Make it beautiful
 
