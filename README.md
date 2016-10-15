@@ -1,5 +1,5 @@
-Is it raining today?
-===============
+Is it raining today? [![Build Status](https://travis-ci.org/simplonco/is-it-raining-today.svg?branch=master)](https://travis-ci.org/simplonco/is-it-raining-today)
+====================
 
 _Build a simple Weather app with PHP Symfony!_
 
